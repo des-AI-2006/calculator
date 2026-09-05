@@ -1,0 +1,18 @@
+{
+  "name": "nexus-calc",
+  "version": "1.0.0",
+  "description": "Modern Glassmorphic Web Calculator",
+  "main": "index.html",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "calculator",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC"
+}
